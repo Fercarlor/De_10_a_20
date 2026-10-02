@@ -1,7 +1,9 @@
 body{
 	font-family: Arial;
 	text-align: left;
+	background-color: grey;
 }
 h1{
 	text-align: center;
+	font-size: 15px;
 }
